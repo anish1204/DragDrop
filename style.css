@@ -68,6 +68,11 @@
         
         
     }
+    .button{
+        display: flex;justify-content: center;
+        text-align: center;
+        padding-left: 140px;
+    }
   }
 
   @media only screen and (max-width: 300px){
@@ -83,3 +88,8 @@
                 
     }
   }
+
+
+.imagereload{
+    
+}
